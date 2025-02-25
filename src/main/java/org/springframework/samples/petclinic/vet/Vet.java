@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
- // just for demo
+ // just for demo purposes to show code review
 package org.springframework.samples.petclinic.vet;
 
 import java.util.Comparator;
